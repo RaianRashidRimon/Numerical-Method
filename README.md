@@ -19,4 +19,6 @@ The goal of this repository is to serve as a resource for students and enthusias
 2. Navigate to the folder and run the desired code in your preferred compiler or IDE.
 
 ## Contribution
-Contributions are welcome! If you spot an issue or have suggestions, feel free to open an issue or a pull request.
+Contributions are welcome! If you spot an issue or have suggestions, feel free to:
+1. Open an issue describing the problem or suggestions.
+2. Fork the repository, implement your changes, and create a pull request.
