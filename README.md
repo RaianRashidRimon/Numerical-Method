@@ -1,13 +1,14 @@
 # Numerical Method
 This repository contains basic numerical methods implemented in C++. 
 ## 📋 Methods Include
-1. Bisection Method
-2. False Position Method
-3. Lagrange Interpolation Method
-4. Gauss Elimination Method
-5. Newton-Raphson Method
-6. Simpson's One-third Rule
-7. Trapezoidal Rule
+
+      1. Bisection Method
+      2. False Position Method
+      3. Lagrange Interpolation Method
+      4. Gauss Elimination Method
+      5. Newton-Raphson Method
+      6. Simpson's One-third Rule
+      7. Trapezoidal Rule
 
 ## 🎯 Purpose
 The goal of this repository is to serve as a resource for students and enthusiasts learning numerical methods. The codes are simple and easy to follow, making them a good starting point for understanding these algorithms.
