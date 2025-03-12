@@ -16,7 +16,8 @@ The goal of this repository is to serve as a resource for students and enthusias
 ## 🚀 Usage
 1. Clone the repository:
    
-   git clone https://github.com/RaianRashidRimon/Numerical-Method.git
+   git clone `https://github.com/RaianRashidRimon/Numerical-Method.git`
+   
 2. Navigate to the folder and run the desired code in your preferred compiler or IDE.
 
 ## 🤝 Contribution
